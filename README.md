@@ -30,9 +30,12 @@ Step 6: Review and Document
 Review the final design for alignment, spacing, contrast, and flow. Export layouts as images or interactive prototypes. Document your design decisions and how each principle/tool contributed to the final output.
 ## Output:
   ## Logo:
+  ![WhatsApp Image 2025-09-02 at 06 57 51_996c8b94](https://github.com/user-attachments/assets/f0f9905d-5fb8-4857-8e6f-15531ca49f7a)
+
 
   ## Mobile application:
-  
+  ![WhatsApp Image 2025-09-02 at 06 57 33_f765143b](https://github.com/user-attachments/assets/603fee5e-0259-4bc4-937e-59827b203013)
+
 
 ## Result:
 Successfully designed responsive mobile and web layouts for an existing case study using key design principles. Applied Gestalt theory to improve visual structure, integrated standard UI components and patterns, and developed user interactions focused on usability. Created a custom brand logo using Canva, maintaining visual consistency across layouts. This process enhanced my skills in layout planning, responsive design, branding, and user-centered thinking.
