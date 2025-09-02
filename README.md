@@ -30,6 +30,8 @@ Step 6: Review and Document
 Review the final design for alignment, spacing, contrast, and flow. Export layouts as images or interactive prototypes. Document your design decisions and how each principle/tool contributed to the final output.
 ## Output:
   ## Logo:
+
+  ## Mobile application:
   
 
 ## Result:
